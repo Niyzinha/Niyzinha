@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Niyzinha<br>🌱 I’m currently learning front-end and design<br>📫 How to reach me, by e-mail niy.profissional@gmail.com<br>
+Oii, eu sou a Sthephanie, mas pode me chamar de Niy<br> <br>
 
 
 ## 🌐 Socials:
