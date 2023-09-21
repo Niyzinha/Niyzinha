@@ -1,7 +1,7 @@
 # 💫 About Me: 
-
+<br>
 Oii, eu sou a Sthephanie, mas pode me chamar de Niy<br> <br>
-
+<br>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://linkedin.com/in/sthephanie-costa-da-cruz-38ab67289) 
 
