@@ -1,5 +1,4 @@
-# 💫 About Me:
-👋 Hi, I’m @Niyzinha<br>🌱 I’m currently learning front-end and design<br>  # 💫 About Me:
+<br>  # 💫 About Me:
 👋 Hi, I’m @Niyzinha<br>🌱 I’m currently learning front-end and design<br>📫 How to reach me, by e-mail niy.profissional@gmail.com<br>
 
 
