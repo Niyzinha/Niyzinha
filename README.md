@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Niyzinha
-- 👀 I’m interested in Html, Css and JavaScript 
 - 🌱 I’m currently learning front-end and design 
 - 📫 How to reach me, by e-mail niy.profissional@gmail.com
 
